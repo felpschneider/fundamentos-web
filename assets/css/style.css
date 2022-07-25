@@ -1,5 +1,10 @@
 /* Estilos aplicados à pagina index.html */
 
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Kdam+Thmor+Pro&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
 .center{
     text-align: center;
 }
